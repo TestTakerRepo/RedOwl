@@ -2,7 +2,7 @@
 Ben Fisher Recruiting Exam Branch
 =================================
 
-Cleanup required. I aim to implement a UI below as per the creative challenge
+Cleanup required. I aim to implement a UI as per the creative challenge
 below but traveling over the weekend for Mother's Day. 
 
 
