@@ -1,3 +1,11 @@
+
+Ben Fisher Recruiting Exam Branch
+=================================
+
+Cleanup required. I aim to implement a UI below as per the creative challenge
+below but traveling over the weekend for Mother's Day. 
+
+
 RedOwl Recruiting Exam
 ======================
 
@@ -36,7 +44,7 @@ Getting Started
     [hbs](https://github.com/donpark/hbs) Handlebars wrapper for ExpressJS applications. In order to locally install all
     of the project dependencies, run the following command in the root directory of the cloned project:
 
-        $ npm install   #(performs local installation of Node project dependencies)
+        $ npm insta   #(performs local installation of Node project dependencies)
 
     Note: You can view the project dependencies and other information in the `package.json` file. Locally installed
     modules and their dependencies can be found in the node_modules folder.
