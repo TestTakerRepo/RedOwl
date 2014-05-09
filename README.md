@@ -2,13 +2,12 @@
 Ben Fisher Recruiting Exam Branch
 =================================
 
-To: Code cleanup required. 
-    Looking to implement movieRater in constant time without too much
-    messy control flow(had time constraints as currently still employed). 
-    Implement a UI as per the creative challenge
-    below but traveling over the weekend for Mother's Day. Will do on
-    Sunday night!
+To Do
+-----
 
+1. Code cleanup required. 
+2. Looking to implement movieRater in constant time without too much messy control flow(had time constraints as currently still employed). 
+3. Implement a UI as per the creative challenge.
 
 RedOwl Recruiting Exam
 ======================
